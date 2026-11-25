@@ -10,10 +10,10 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/oleksii-dzekan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:oleksiidzekan13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=oleksiidzekan13%40gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
@@ -46,13 +46,9 @@ I enjoy working across the entire development lifecycle — from technical archi
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css" />
 
-<br/><br/>
-
 ### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-
-<br/><br/>
 
 ### Mobile Development
 
@@ -62,13 +58,9 @@ I enjoy working across the entire development lifecycle — from technical archi
 
 <code>React Native</code>
 
-<br/><br/>
-
 ### Databases & Caching
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-
-<br/><br/>
 
 ### Cloud & DevOps
 
@@ -167,11 +159,10 @@ I'm always interested in interesting engineering challenges, meaningful products
 <br/>
 
 <a href="https://www.linkedin.com/in/oleksii-dzekan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="mailto:oleksiidzekan13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=oleksiidzekan13%40gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
