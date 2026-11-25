@@ -1,42 +1,40 @@
 
 <div align="center">
 
-# ⚡ Hey, I'm Oleksii
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Oleksii%20Dzekan&fontSize=55&fontColor=ffffff&color=0:0f172a,50:1e3a8a,100:0891b2&stroke=0891b2&strokeWidth=1&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer&descSize=20&descAlignY=70" width="100%" />
 
-### Senior Full Stack Engineer
+### Building scalable products. Engineering meaningful solutions.
 
-**TypeScript · React · Next.js · Node.js · NestJS**
-
-Building scalable digital products, reliable backend systems, and AI-powered experiences.
+**TypeScript · React · Next.js · Node.js · NestJS · AI**
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/oleksii-dzekan/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:oleksiidzekan13@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header" width="100%" />
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a **Senior Full Stack Engineer** passionate about building modern web and mobile applications that solve real-world problems.
+I'm a **Senior Full Stack Engineer** with 6+ years of experience building web and mobile applications, backend services, and scalable software solutions.
 
-I specialize in the TypeScript ecosystem, developing interactive frontend experiences, scalable backend services, and AI-powered application features.
+I specialize in the TypeScript ecosystem, combining modern frontend technologies with robust backend architectures to deliver reliable, high-performance products.
 
-I enjoy taking ownership of products end-to-end — from technical architecture and database design to implementation, optimization, and deployment.
+My experience includes FinTech analytics platforms, AI-powered workflows, and real-time ride-hailing systems.
 
-- 💻 Building modern web applications and cross-platform mobile products
-- ⚙️ Designing backend services, APIs, and complex business logic
-- 🤖 Integrating AI capabilities into real-world applications
-- ☁️ Working with cloud infrastructure and production environments
-- 🧩 Writing clean, maintainable, and scalable code
+I enjoy working across the entire development lifecycle — from technical architecture and database design to implementation, optimization, and production deployment.
+
+- ⚡ Building modern web and cross-platform mobile applications
+- ⚙️ Designing scalable backend services and RESTful APIs
+- 🤖 Integrating AI and OpenAI-powered features into applications
+- ☁️ Developing and deploying cloud-based solutions
+- 🧩 Solving complex engineering and business challenges
 
 ---
 
@@ -44,26 +42,35 @@ I enjoy taking ownership of products end-to-end — from technical architecture 
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,html,css" />
 
-### Backend
+<br/><br/>
+
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
-### Mobile
+<br/><br/>
+
+### Mobile Development
 
 <img src="https://skillicons.dev/icons?i=react" />
 
 <br/>
-React Native
+
+<code>React Native</code>
+
+<br/><br/>
 
 ### Databases & Caching
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-### Cloud & Tools
+<br/><br/>
+
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 
@@ -85,36 +92,38 @@ React Native
 
 **Ride-Hailing Platform · Tallinn**
 
-A real-time ride-hailing ecosystem connecting passengers and drivers through intelligent dispatch workflows.
+A ride-hailing platform designed to connect passengers and drivers through real-time dispatch and fleet management workflows.
 
-- Driver and passenger applications
-- Real-time ride and driver tracking
-- Fleet management and dispatch workflows
-- Dynamic pricing and payment integrations
-- Scalable backend services
+**Key Contributions**
 
-**Stack**
+- Developed backend services for dispatch and ride management.
+- Contributed to fleet operations and dynamic pricing workflows.
+- Implemented real-time communication for driver and ride status updates.
+- Worked on payment integrations and scalable API infrastructure.
 
-`TypeScript` `React Native` `NestJS` `PostgreSQL` `Redis` `WebSockets` `AWS`
+**Technologies**
+
+`TypeScript` `React Native` `Node.js` `NestJS` `PostgreSQL` `Redis` `WebSockets` `AWS`
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🤖 AI Risk Platform</h3>
 
-**AI-Powered FinTech Solution**
+**AI-Powered Risk Management · FinTech**
 
-A financial technology platform designed to streamline risk analysis, financial data workflows, analytics, and AI-assisted decision-making.
+A financial technology platform focused on risk analysis, financial data workflows, analytics, and AI-assisted decision-making.
 
-- Interactive financial analytics
-- AI-powered data exploration
-- Risk assessment workflows
-- Backend API development
-- Data processing and optimization
+**Key Contributions**
 
-**Stack**
+- Developed interactive financial analytics interfaces.
+- Integrated three AI-powered workflows using OpenAI APIs.
+- Optimized backend queries and data processing.
+- Improved performance of analytical dashboards and workflows.
 
-`TypeScript` `React` `Node.js` `NestJS` `PostgreSQL` `Redis` `OpenAI API` `AWS`
+**Technologies**
+
+`TypeScript` `React` `Node.js` `NestJS` `PostgreSQL` `Redis` `OpenAI API` `Docker` `AWS`
 
 </td>
 </tr>
@@ -122,48 +131,55 @@ A financial technology platform designed to streamline risk analysis, financial 
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 My Engineering Philosophy
 
 ```typescript
-const engineeringMindset = {
-  architecture: "Build for scalability",
-  codeQuality: "Keep it clean and maintainable",
-  problemSolving: "Understand before implementing",
-  performance: "Optimize what matters",
-  ownership: "Take features from idea to production",
-  growth: "Never stop learning"
+const engineeringPrinciples = {
+  architecture: "Design for scalability",
+  simplicity: "Prefer simple and maintainable solutions",
+  performance: "Build fast and efficient applications",
+  ownership: "Take responsibility from idea to production",
+  collaboration: "Build better solutions together",
+  growth: "Keep learning and experimenting"
 };
 
-export default engineeringMindset;
+export default engineeringPrinciples;
 ```
 
 ---
 
 ## 🌱 Currently Exploring
 
-- AI-powered applications and LLM integrations
-- Scalable backend and distributed architectures
-- Advanced TypeScript and software design patterns
-- Cloud-native infrastructure and deployment strategies
+- Artificial Intelligence and practical LLM integrations
+- Distributed systems and scalable backend architectures
+- Advanced TypeScript patterns and software design
+- Cloud infrastructure and application performance
+- Modern engineering practices and developer tooling
 
 ---
 
-<div align="center">
-
 ## 🤝 Let's Connect
 
-I'm always interested in meaningful projects, engineering challenges, and opportunities to build great software.
+<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+I'm always interested in interesting engineering challenges, meaningful products, and opportunities to collaborate.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/oleksii-dzekan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:oleksiidzekan13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Building things that matter. One commit at a time.**
+**Let's build something meaningful.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0891b2&height=120&section=footer" width="100%" />
 
 </div>
